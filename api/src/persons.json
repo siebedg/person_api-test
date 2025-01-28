@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "name": "Siebe",
+    "age": 20
+  },
+  {
+    "name": "Paul",
+    "age": 42
+  },
+  {
+    "name": "Alice",
+    "age": 30
+  },
+  {
+    "name": "Charlie",
+    "age": 40
+  },
+  {
+    "name": "Test",
+    "age": 22
+  },
+  {
+    "name": "Lisa",
+    "age": 23
+  }
+]
