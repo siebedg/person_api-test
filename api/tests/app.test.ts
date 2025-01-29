@@ -1,5 +1,5 @@
 import request from "supertest";
-import app from "../app";
+import app from "../src/app.js";
 
 describe("PersonAPI", () => {
   it("should create a person", async () => {
